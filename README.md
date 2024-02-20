@@ -1,4 +1,4 @@
-# skins_generator
+# magic-skins
 
 # require
 
